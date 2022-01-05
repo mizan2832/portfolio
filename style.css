@@ -730,3 +730,23 @@ footer span a:hover{
 .serv-content{
     margin-top: 20px;
 }
+.social .link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.social .link i{
+    font-size: 3rem;
+    padding: 10px;
+
+}
+.social .link .fa-facebook-square{
+    color: #0F5AB8;
+}
+.social .link .fa-github{
+    color: #AC0021;
+}
+.social .link .fa-instagram{
+    color: #723D9C;
+}
